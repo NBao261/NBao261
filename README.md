@@ -1,4 +1,4 @@
-# [cbao]
+# Nguyen Chi Bao
 
 ### Full Stack Developer (MERN)
 
@@ -44,12 +44,11 @@ I am a final-year Software Engineering student passionate about building scalabl
 ### Education
 
 **Bachelor of Software Engineering**
-* [University Name], [Year - Year]
+* FPT University, 2022 - 2026
 * **Focus:** Web Development, Distributed Systems, Software Architecture.
 
 ---
 
 ### Contact
 
-* [Email Address]
-* [LinkedIn Profile URL]
+* ncb2601@gmail.com
